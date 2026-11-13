@@ -1,18 +1,11 @@
 {
   "version": "1.0.2-beta",
-  "name": "إصدار v1.0.1-beta",
+  "name": "إصدار v1.0.2-beta",
   "releaseDate": "2026-11-13",
   "changelog": [
-    "تحديث نظام قواعد البيانات",
-    "تحديث أيقونة التطبيق",
-    "معالجة بعض مشاكل العرض",
-    "إضافة عرض الجداول لصفحة إدارة المحافظ",
-    "إضافة ترقيم الصفحات لكل من الصفحة الرئيسية وصفحة سجل الحركات وصفحة إدارة المحافظ",
-    "إضافة إمكانية تفعيل/إلغاء تفعيل المحافظ",
-    "إضافة نظام التحديث التلقائي الصامت للبرنامج بنقرة زر واحدة",
-    "أخذ نسخة احتياطية محلية فورية لحماية البيانات قبل أي ترقية"
+    "إصلاح رابط التحديث",
   ],
-  "downloadUrl": "https://github.com/ahmedsaoud31/CashWallet/releases/download/v1.0.1-beta/CashWallet_Setup_v1.0.1-beta.exe",
+  "downloadUrl": "https://github.com/ahmedsaoud31/CashWallet/releases/download/v1.0.2-beta/CashWallet_Setup_v1.0.2-beta.exe",
   "mandatory": false,
   "minAppVersion": "1.0.0"
 }
